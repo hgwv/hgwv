@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**hgwv/hgwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henry, a front-end developer based in London.
 
-Here are some ideas to get you started:
+While I do mostly work on front-end stuff, I'm learning backend in hopes to create a fullstack AI tutoring app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main languages are HTML, CSS, and JavaScript, but I'm pretty good at Java too. I'm currently learning JavaScript and CSS, along with Python.
+
+On this profile, I mainly just create mini projects to help me learn, some of which contribute to my tutoring app (like my todo list and pomodoro timer, which you should go check out!)
+
+---
+
+### Tools & Tech
+
+- HTML, CSS, JavaScript
+- Java and Python
+- Currently learning CSS, JavaScript, and Python
+
+---
+
+### A Bit About Me
+
+- I have a dog named Max
+- Not a coffee or tea person, milkshakes for the win
+- Building simple + useful things :)
